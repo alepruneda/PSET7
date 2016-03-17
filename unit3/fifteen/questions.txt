@@ -1,0 +1,22 @@
+questions.txt
+
+CS50 AP
+Problem 3-1
+
+0. TODO Indicar el numero de argumentos que puede introducir
+1. TODO Dimensiones validas
+2. TODO El usuario
+3. TODO Comenzar el cuadro
+4. TODO Limpiar la pantalla
+5. TODO Dibujar como esta el cuadro
+6. TODO Revisar si gana
+7. TODO Empezar a moverse
+8. TODO Moverse si es posible, sino decir que es un "illegal move"
+9. TODO Reposar por el bien del juego
+10.TODO Termina todo
+
+PREGUNTAS 
+1. 3x3 - 9x9
+2. Arreglo bidimencional
+3. Greet
+4. Init y Draw
